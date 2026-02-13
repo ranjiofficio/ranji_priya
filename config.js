@@ -43,13 +43,13 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "Love you di kutty paapa🥰🚀💝",  // Shows when they go past 5000%
-        high: "I will always be there for you 🚀💝",              // Shows when they go past 1000%
-        normal: "Forever And beyond! 🥰"                           // Shows when they go past 100%
+        high: "Inu adhigama🚀💝",              // Shows when they go past 1000%
+        normal: "I love you sooooo much 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
+        title: "Love you pondatti🎉💝💖💝💓",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
